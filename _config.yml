@@ -1,0 +1,28 @@
+name: Lindy Coops
+favicon: null
+layout_spectrum: 0.7557720765471458
+typography_spectrum: 0.6734117192681879
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6257658437825739
+  lightness: 0.6910554696805775
+  saturation: 0.8991762509103864
+  rhythmicContrast: 0.22381585254333913
+purpose: []
