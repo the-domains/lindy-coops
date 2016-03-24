@@ -1,41 +1,41 @@
-title: Lindy Coops
-purpose: []
+typography_spectrum: 0.4247312
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.3387097
+title: Lindy Coops
+purpose: []
 color:
   saturation: 0.6487455
   brandStrength: 0.6257658437825739
-  lightness: 0.5949821
+  rhythmicContrast: 0.3405018
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.3405018
+  lightness: 0.5949821
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Lindy Coops
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4247312
-layout_spectrum: 0.3387097
