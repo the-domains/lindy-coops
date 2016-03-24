@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lindy Coops]]></title>
         <description><![CDATA[Lindy Coops]]></description>
-        <link>http://me.lindycoops.com/</link>
+        <link>https://thegrid.ai/lindy-coops/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 09:26:18 GMT</lastBuildDate>
-        <atom:link href="http://me.lindycoops.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 09:38:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lindy-coops/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Traveler, photographer, digital nomad, minimalist.</p>]]></description>
-            <link>http://me.lindycoops.com/aec99743-8753-4abb-b487-7ce5e2c10dd0/index.html</link>
+            <link>https://thegrid.ai/lindy-coops/aec99743-8753-4abb-b487-7ce5e2c10dd0/index.html</link>
             <guid isPermaLink="false">aec99743-8753-4abb-b487-7ce5e2c10dd0</guid>
-            <pubDate>Thu, 24 Mar 2016 09:26:10 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 09:38:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
