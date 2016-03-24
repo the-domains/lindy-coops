@@ -4,7 +4,7 @@
         <description><![CDATA[Lindy Coops]]></description>
         <link>https://thegrid.ai/lindy-coops/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 09:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 09:51:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lindy-coops/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lindy-coops/aec99743-8753-4abb-b487-7ce5e2c10dd0/index.html</link>
             <guid isPermaLink="false">aec99743-8753-4abb-b487-7ce5e2c10dd0</guid>
             <pubDate>Thu, 24 Mar 2016 09:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test</p>]]></description>
+            <link>https://thegrid.ai/lindy-coops/fffcfb94-1f87-41c6-a9c6-a08949e0fdc5/index.html</link>
+            <guid isPermaLink="false">fffcfb94-1f87-41c6-a9c6-a08949e0fdc5</guid>
+            <pubDate>Thu, 24 Mar 2016 09:51:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
